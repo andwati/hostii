@@ -12,6 +12,6 @@ This is just a hobby project to learn more about systems design and backend syst
 - Flask : A python web application framework 
 - Black : the uncompromising python code formatter
 - Isort: 
-# Todo :todo:
+# Todo :memo:
 
 # License
